@@ -20,8 +20,8 @@
 ### 👨‍💻 About Me
 
 - 📍 Based in **Radwan, Aswan, Egypt**
-- 💼 **Flutter Developer** (2023 - 2024)
-- 🎯 هدفى: Seeking a programming position where my skills and experience can be fully utilized and enhanced.
+- 💼 **Flutter Developer**
+- 🎯 Goal: Looking for a developer position to contribute effectively and continuously improve my technical abilities.
 
 ---
 
