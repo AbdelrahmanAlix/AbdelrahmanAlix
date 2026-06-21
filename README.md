@@ -1,5 +1,5 @@
 <h2>
-  👋 Hello, I'm <b>Abdelrahman Ali Mostafa</b> 
+  👋 Hello, I'm <b>Abdelrahman Ali Mostafa</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
@@ -7,87 +7,152 @@
 
 <p>
   <em>
-    Flutter Developer
-    <!-- Optional: Uncomment if you want to mention a company -->
-    <!-- at <a href="#">Q-Vision</a> -->
+    Flutter Developer | Mobile Application Engineer
   </em>
 </p>
-
-<!-- Badges (Edit YOUR_GITHUB_USERNAME) -->
 
 ---
 
 ### 👨‍💻 About Me
 
-- 📍 Based in **Radwan, Aswan, Egypt**
-- 💼 **Flutter Developer**
-- 🎯 Goal: Looking for a developer position to contribute effectively and continuously improve my technical abilities.
+- 📍 Based in **Aswan, Egypt**
+- 💼 **Flutter Developer with 3+ Years of Experience**
+- 🚀 Developed and maintained **6+ Mobile Applications**
+- 🏗️ Specialized in **Clean Architecture, MVVM & Scalable Flutter Apps**
+- 📱 Experienced in publishing applications on **Google Play Store & Apple App Store**
+- 🎯 Open to Flutter Developer opportunities and exciting mobile projects
 
 ---
 
 ### 🧰 Tech Stack & Skills
 
-**Mobile**
+#### 📱 Mobile Development
 
 - Flutter
-- React Native (Basics)
+- Dart
+- Kotlin
 
-**Frontend**
+#### 🔄 State Management
 
-- HTML5, CSS3, JavaScript
-- React.js, Angular
-- ES6, TypeScript
-- Bootstrap 5, Sass
+- Bloc / Cubit
+- Riverpod
+- Provider
+- GetX
 
-**Backend / Tools**
+#### 🏗️ Architecture & Design
 
-- Node.js
-- MongoDB
+- Clean Architecture
+- MVVM
+- MVC
+
+#### 🔥 Backend & Databases
+
+- Firebase
+- Supabase
+- SQLite
+- Hive
+
+#### 🔌 APIs & Integrations
+
+- REST APIs
+- Firebase Services
+- Google Maps API
+- Push Notifications
+- Socket.IO
+
+#### 🛠️ Tools & Platforms
+
 - Git & GitHub
-- Unit Testing
-- UX Design
-
-**Programming Foundations**
-
-- Data Structures
-- OOP (C / C++)
-- C#
+- Postman
+- Apidog
+- Firebase Console
+- Google Play Console
+- App Store Connect
 
 ---
 
 ### 💼 Experience
 
-**Flutter Developer — Q-Vision** (2023 - 2024)
+#### Flutter Developer — RAR-IT
+**Dec 2024 – Present**
 
-**Flutter Developer — RAR-IT Design & Development LLC** (2023 - 2024)
+- Developed and maintained 12+ production mobile applications.
+- Integrated REST APIs and third-party services.
+- Published applications to Google Play Store and Apple App Store.
+- Collaborated with UI/UX and Backend teams.
+- Participated in architecture and technical planning decisions.
+
+#### Flutter Developer — Q-Vision
+**Aug 2023 – Dec 2024**
+
+- Developed and scaled the Matager Al-Hai platform.
+- Built authentication, notifications and API integrations.
+- Led development efforts and coordinated technical tasks.
+- Worked directly with stakeholders to implement business requirements.
+
+---
+
+### 🚀 Featured Projects
+
+#### ⚖️ Law Management App
+Secure enterprise legal workflow application for managing court cases and legal documents.
+
+**Tech:** Flutter, Cubit, Firebase, Clean Architecture, Socket.IO
+
+#### 🚚 Noah App
+Dual logistics platform with customer and driver applications.
+
+**Tech:** Flutter, Firebase, Google Maps, Push Notifications
+
+#### 🛒 Bindo App
+Marketplace application for product discovery and local trading.
+
+**Tech:** Flutter, Firebase, APIs, Google Maps
+
+#### 🔧 ActiService App
+On-demand service booking and scheduling application.
+
+**Tech:** Flutter, Firebase, APIs
+
+#### 🏢 Tamkeen Platform
+Desktop platform for workflow and operational management.
+
+**Tech:** Flutter Desktop, Firebase
+
+#### 🛍️ ShamZone App
+Marketplace and e-commerce ecosystem.
+
+**Tech:** Flutter, GetX, Firebase, Google Maps
 
 ---
 
 ### 🎓 Education
 
-**Bachelor's Degree in Physical Education**  
-Aswan University (2016 - 2020) — Grade: Good
+#### Aswan University
+**Bachelor's Degree in Physical Education**
+2016 – 2020
 
----
+#### Information Technology Institute (ITI)
 
-### 📱 Google Play (Internal Testing Links)
-
-<!-- - https://play.google.com/apps/internaltest/4700619152270855958   -->
-<!-- - https://play.google.com/apps/internaltest/4701566032935533356   -->
-
-> Tip: لو عندك روابط عامة لتطبيقات منشورة (Public) حطها بدل Internal Testing.
+- Software Development Fundamentals Diploma
+- Frontend & Cross Mobile App Development Training
 
 ---
 
 ### 📫 Contact
 
-- 📧 Email: abdofairy159@gmail.com
-- 📞 Phone: +20 112 898 0604
-- 🔗 LinkedIn: https://www.linkedin.com/in/abdelrahman-ali-08a754263/
+- 📧 Email: **abdofairy159@gmail.com**
+- 📞 Phone: **+20 112 898 0604**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/abdelrahman-ali-mekki/**
+- 🐙 GitHub: **https://github.com/AbdelrahmanAlix**
 
 ---
 
-<!-- OPTIONAL: WakaTime section (remove if you don't use it) -->
-<!--START_SECTION:waka-->
-<!-- If you want WakaTime stats, set it up first then keep this section -->
-<!--END_SECTION:waka-->
+### ⚡ Current Focus
+
+- Building scalable Flutter applications
+- Mobile Architecture & Clean Code
+- Performance Optimization
+- Firebase & Backend Integrations
+
+⭐ Open To Work
