@@ -1,93 +1,152 @@
-<h2>
-  👋 Hello, I'm <b>Abdelrahman Ali Mostafa</b> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+# 👋 Hi, I'm Abdelrahman Ali Mostafa
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### Flutter Developer | Mobile Application Engineer
 
-<p>
-  <em>
-    Flutter Developer
-    <!-- Optional: Uncomment if you want to mention a company -->
-    <!-- at <a href="#">Q-Vision</a> -->
-  </em>
-</p>
-
-<!-- Badges (Edit YOUR_GITHUB_USERNAME) -->
+📍 Aswan, Egypt
+📧 [abdofairy159@gmail.com](mailto:abdofairy159@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/abdelrahman-ali-mekki/
+🚀 Open to Flutter Developer Opportunities
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 📍 Based in **Radwan, Aswan, Egypt**
-- 💼 **Flutter Developer**
-- 🎯 Goal: Looking for a developer position to contribute effectively and continuously improve my technical abilities.
+Flutter Developer with 3+ years of experience building and maintaining cross-platform mobile applications for Android and iOS.
 
----
+I specialize in Flutter, Dart, Clean Architecture, MVVM, Firebase, and REST API integrations. Throughout my career, I have developed and delivered 6+ production-ready applications, collaborated with cross-functional teams, and participated in software architecture and technical planning decisions.
 
-### 🧰 Tech Stack & Skills
-
-**Mobile**
-
-- Flutter
-- React Native (Basics)
-
-**Frontend**
-
-- HTML5, CSS3, JavaScript
-- React.js, Angular
-- ES6, TypeScript
-- Bootstrap 5, Sass
-
-**Backend / Tools**
-
-- Node.js
-- MongoDB
-- Git & GitHub
-- Unit Testing
-- UX Design
-
-**Programming Foundations**
-
-- Data Structures
-- OOP (C / C++)
-- C#
+Passionate about building scalable, high-performance mobile applications and delivering exceptional user experiences.
 
 ---
 
-### 💼 Experience
+## 🛠️ Technical Skills
 
-**Flutter Developer — Q-Vision** (2023 - 2024)
+### Mobile Development
 
-**Flutter Developer — RAR-IT Design & Development LLC** (2023 - 2024)
+* Flutter
+* Dart
+* Kotlin
+
+### State Management
+
+* Bloc / Cubit
+* Riverpod
+* Provider
+* GetX
+
+### Architecture & Design Patterns
+
+* Clean Architecture
+* MVVM
+* MVC
+
+### Backend & Databases
+
+* Firebase
+* Supabase
+* SQLite
+* Hive
+
+### APIs & Integrations
+
+* REST APIs
+* Google Maps API
+* Firebase Services
+* Push Notifications
+* Socket.IO
+
+### Tools & Platforms
+
+* Git & GitHub
+* Postman
+* Apidog
+* Firebase Console
+* Google Play Console
+* App Store Connect
 
 ---
 
-### 🎓 Education
+## 💼 Professional Experience
 
-**Bachelor's Degree in Physical Education**  
-Aswan University (2016 - 2020) — Grade: Good
+### Flutter Developer | RAR-IT
+
+📅 Dec 2024 – Present
+
+* Developed and maintained 12+ mobile applications.
+* Built scalable Flutter applications using Clean Architecture.
+* Integrated REST APIs and third-party services.
+* Managed Google Play Store and Apple App Store releases.
+* Collaborated with designers and backend teams to deliver production-ready solutions.
+
+### Flutter Developer | Q-Vision
+
+📅 Aug 2023 – Dec 2024
+
+* Developed and scaled the Matager Al-Hai platform.
+* Led development efforts and coordinated technical tasks.
+* Implemented authentication, notifications, API integrations, and dynamic content management.
+* Worked closely with stakeholders to transform business requirements into technical solutions.
 
 ---
 
-### 📱 Google Play (Internal Testing Links)
+## 📱 Featured Projects
 
-<!-- - https://play.google.com/apps/internaltest/4700619152270855958   -->
-<!-- - https://play.google.com/apps/internaltest/4701566032935533356   -->
+### ⚖️ Law Management App
 
-> Tip: لو عندك روابط عامة لتطبيقات منشورة (Public) حطها بدل Internal Testing.
+Enterprise legal workflow platform for managing court cases, legal documents, and law firm operations.
+
+**Tech Stack:** Flutter, Cubit, Firebase, Clean Architecture, APIs, Socket.IO, Push Notifications
+
+### 🚚 Noah App
+
+Dual logistics platform connecting customers and drivers with real-time tracking.
+
+**Tech Stack:** Flutter, Firebase, Google Maps, APIs, Push Notifications
+
+### 🛒 Bindo App
+
+Digital marketplace for product discovery, local trading, and business promotion.
+
+**Tech Stack:** Flutter, Firebase, APIs, Socket.IO, Google Maps
+
+### 🔧 ActiService App
+
+On-demand service booking and scheduling application.
+
+**Tech Stack:** Flutter, Firebase, APIs, Google Maps
+
+### 🏢 Tamkeen Platform
+
+Workflow and operational management platform for organizations and enterprises.
+
+**Tech Stack:** Flutter Desktop, Firebase, APIs
+
+### 🛍️ ShamZone App
+
+Marketplace and e-commerce ecosystem with integrated maps and communication features.
+
+**Tech Stack:** Flutter, GetX, Firebase, APIs, Google Maps
 
 ---
 
-### 📫 Contact
+## 🎓 Education
 
-- 📧 Email: abdofairy159@gmail.com
-- 📞 Phone: +20 112 898 0604
-- 🔗 LinkedIn: https://www.linkedin.com/in/abdelrahman-ali-08a754263/
+### Bachelor's Degree
+
+Aswan University
+2016 – 2020
+
+### Information Technology Institute (ITI)
+
+* Software Development Fundamentals Diploma
+* Frontend & Cross-Platform Mobile Development Training
 
 ---
 
-<!-- OPTIONAL: WakaTime section (remove if you don't use it) -->
-<!--START_SECTION:waka-->
-<!-- If you want WakaTime stats, set it up first then keep this section -->
-<!--END_SECTION:waka-->
+## 📫 Let's Connect
+
+I'm always interested in discussing Flutter development, mobile architecture, and new opportunities.
+
+* LinkedIn: https://www.linkedin.com/in/abdelrahman-ali-mekki/
+* GitHub: https://github.com/AbdelrahmanAlix
+* Email: [abdofairy159@gmail.com](mailto:abdofairy159@gmail.com)
